@@ -1,5 +1,18 @@
 # Serverless Versioning Plugin
 
+## SonarCloud Status
+
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=lucasvieirasilva_serverless-versioning-plugin&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=lucasvieirasilva_serverless-versioning-plugin)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=lucasvieirasilva_serverless-versioning-plugin&metric=bugs)](https://sonarcloud.io/summary/new_code?id=lucasvieirasilva_serverless-versioning-plugin)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=lucasvieirasilva_serverless-versioning-plugin&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=lucasvieirasilva_serverless-versioning-plugin)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=lucasvieirasilva_serverless-versioning-plugin&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=lucasvieirasilva_serverless-versioning-plugin)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=lucasvieirasilva_serverless-versioning-plugin&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=lucasvieirasilva_serverless-versioning-plugin)
+
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=lucasvieirasilva_serverless-versioning-plugin&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=lucasvieirasilva_serverless-versioning-plugin)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=lucasvieirasilva_serverless-versioning-plugin&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=lucasvieirasilva_serverless-versioning-plugin)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=lucasvieirasilva_serverless-versioning-plugin&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=lucasvieirasilva_serverless-versioning-plugin)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lucasvieirasilva_serverless-versioning-plugin&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=lucasvieirasilva_serverless-versioning-plugin)
+
 The serverless versioning plugin is designed to help you manage your API versions. It allows you to create a new version of your API and deploy it to a completely different stack, including all the resources, functions, and endpoints.
 
 ## Getting Started
